@@ -1,6 +1,6 @@
 ![I am Developer](https://github.com/sharthak18/sharthak18/blob/main/Screenshot%202024-09-21%20202707.png)
 # Asraful Islam Sharthak
-#### I am Developer
+### I am a Developer
 I'm sharthak from Bangladesh, and i do web development. I really enjoy learning languages and frameworks like React.
 
 ## Skills and Experience:
