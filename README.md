@@ -1,5 +1,5 @@
 <!-- GitHub Profile Banner -->
-<img src="https://raw.githubusercontent.com/sharthak18/sharthak18/main/banner.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/sharthak18/sharthak18/main/banner.png.png" alt="GitHub Banner" width="100%" />
 
 # Asraful Islam Sharthak
 ### 👨‍💻 Blockchain Engineer | Web Developer
