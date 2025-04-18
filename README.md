@@ -1,15 +1,23 @@
-![I am Developer](https://github.com/sharthak18/sharthak18/blob/main/Screenshot%202024-09-21%20202707.png)
+<!-- GitHub Profile Banner -->
+<img src="https://raw.githubusercontent.com/sharthak18/sharthak18/main/banner.png" alt="GitHub Banner" width="100%" />
+
 # Asraful Islam Sharthak
-### I am a Developer
-I'm sharthak from Bangladesh, and i do web development. I really enjoy learning languages and frameworks like React.
+### 👨‍💻 Blockchain Engineer | Web Developer
 
-## Skills and Experience:
-. 💻 HTML, CSS, JS, C
-- 🔭 I’m currently working on Web Responsivnes and accesibility 
-- 🌱 I’m currently learning JAVA 
-- 📫 How to reach me: sharthak016@gmail.com 
+I'm Sharthak from Bangladesh, passionate about building cool web apps and diving deep into blockchain and smart contracts.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharthak18) 
+## 🧠 Skills and Experience
+- 💻 HTML, CSS, JavaScript, C
+- 🛠️ React, Solidity, Web3
+- 🔭 Currently working on Web Responsiveness & Accessibility
+- 🌱 Learning Java & Blockchain Engineering
+- 📫 Reach me at: **sharthak016@gmail.com**
 
+## 🔗 Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharthak18)
 
+---
+
+### ⚡ Fun Fact:
+> I write code like poetry—and debug like Sherlock Holmes 🕵️‍♂️💻
 
