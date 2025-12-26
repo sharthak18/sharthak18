@@ -67,20 +67,14 @@ I utilize a comprehensive suite of tools, from industry-standard static analysis
 
 ---
 
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharthak18&show_icons=true&theme=radical&hide_border=true" alt="Sharthak's Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharthak18&theme=radical&hide_border=true" alt="Sharthak's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharthak18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sharthak's Stats" />
+  <img src="https://streak-stats.demolab.com?user=sharthak18&theme=radical&hide_border=true" alt="Sharthak's Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <b>Let's secure the future of Web3 together!</b><br>
-  Feel free to reach out for collaborations or audits.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
