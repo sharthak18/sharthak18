@@ -78,3 +78,7 @@ I utilize a comprehensive suite of tools, from industry-standard static analysis
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/sharthak18/sharthak18/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
