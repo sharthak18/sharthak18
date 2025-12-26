@@ -24,7 +24,7 @@ I am a **Blockchain Security Researcher** from Bangladesh with a deep craving fo
 
 I spend my days dissecting smart contracts, analyzing attack vectors, and keeping up with the ever-evolving blockchain security landscape. I don't just find bugs; I ensure protocols are robust, gas-efficient, and safe for users.
 
-* 🔭 **Currently focusing on:** Competitive Auditing & Advanced Smart Contract Security.
+* 🔭 **Currently focusing on:** Competitive Auditing, ZK-Rollups, & Advanced Smart Contract Security.
 * 🌱 **Learning source:** Deep diving via **Cyfrin Updraft**.
 * ⚡ **Energy:** High-octane Web3 enthusiast committed to making DeFi safer.
 
@@ -42,34 +42,39 @@ I am actively involved in the competitive auditing space, leveraging both manual
 
 ### 🛠️ Technical Stack & Arsenal
 
-I utilize a comprehensive suite of tools, from industry-standard static analysis to cutting-edge AI assistance.
+I utilize a comprehensive suite of tools, from industry-standard static analysis to cutting-edge AI assistance and infrastructure.
 
-#### **🔐 Security & Analysis Tools**
-| Category | Tools |
+#### **🔐 Security, Infra & Analysis**
+| Category | Tools & Concepts |
 | :--- | :--- |
 | **Static Analysis** | `Slither`, `Aderyn`, `Mythril` |
-| **IDE & Frameworks** | `Remix IDE`, `Hardhat`, `Foundry` |
-| **Reporting & Metrics** | `Solidity Metrics`, `Markdown-to-PDF (Rust based)` |
-| **AI Assistants** | `ChatGPT`, `Gemini`, `Phind`, `Grok` (Used for semantic analysis & rapid prototyping) |
+| **Frameworks** | `Foundry` (Main), `Hardhat`, `Remix IDE` |
+| **Infrastructure** | `Docker`, `IPFS`, `Git` |
+| **Reporting** | `Solidity Metrics`, `Markdown-to-PDF` (Rust based) |
+| **AI Assistants** | `ChatGPT`, `Gemini`, `Phind`, `Grok` |
 
-#### **💻 Languages & Core Tech**
+#### **🧠 Blockchain Knowledge & Protocols**
+* **Core:** EVM Internals, Ethereum Architecture
+* **Standards:** ERC-20, ERC-721 (NFTs), ERC-1155, ERC-4626, EIPs
+* **Scaling:** Layer 2 Solutions, zkSync (Zero Knowledge Proofs)
+
+#### **💻 Languages**
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-#### **🌐 Web Development Background**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sharthak18&show_icons=true&theme=radical&hide_border=true" alt="Sharthak's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharthak18&theme=radical&hide_border=true" alt="Sharthak's Streak" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
