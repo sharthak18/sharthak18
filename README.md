@@ -70,15 +70,9 @@ I utilize a comprehensive suite of tools, from industry-standard static analysis
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharthak18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sharthak's Stats" />
-  <img src="https://streak-stats.demolab.com?user=sharthak18&theme=radical&hide_border=true" alt="Sharthak's Streak" />
-</p>
+![Sharthak's Stats](https://github-readme-stats.vercel.app/api?username=sharthak18&show_icons=true&theme=radical&hide_border=true)
+![Sharthak's Streak](https://streak-stats.demolab.com?user=sharthak18&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharthak18&layout=compact&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github.com/sharthak18/sharthak18/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+![Snake Animation](https://raw.githubusercontent.com/sharthak18/sharthak18/output/github-contribution-grid-snake-dark.svg)
