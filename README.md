@@ -65,6 +65,17 @@ I utilize a comprehensive suite of tools, from industry-standard static analysis
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+## 🎓 Leadership & Extracurricular
+
+- **Executive Committee Member**  
+  **DIU Computer Programming Club (DIU CPC)**  
+  *Dhaka International University*  
+  April 2026 – Present  
+
+  Selected for the 2026-27 Executive Committee after a competitive interview.  
+  Contributing to club activities, programming events, workshops, and fostering a coding community among CSE students.
+
 ---
 
 
