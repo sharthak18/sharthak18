@@ -54,7 +54,7 @@ I'm a builder and researcher based in Dhaka, Bangladesh. I work at the intersect
 
 ### Proof of Work
 
-- **Cantina — Revert Finance StableSwap Hooks:** ranked 40 / 773, 1 High + 2 Medium valid findings
+- **Cantina — Revert Finance StableSwap Hooks:**  1 High + 2 Medium valid findings
 - Active warden: **Code4rena**, **Sherlock**, **HackenProof**, **Immunefi**, **Cyfrin**
 - Full-stack projects and research write-ups available on [GitHub](https://github.com/sharthak18) and [Portfolio](https://sharthak18.github.io)
 
@@ -70,7 +70,7 @@ I'm a builder and researcher based in Dhaka, Bangladesh. I work at the intersect
 
 ### Currently Learning
 
-ZK circuits (Noir), invariant testing at scale (Echidna), assembly-level EVM, and applied research methodology.
+Security and applied research methodology.
 
 ---
 
