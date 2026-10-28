@@ -1,44 +1,79 @@
-
 <div align="center">
   <h1>Asraful Islam Sharthak</h1>
-  <p><strong>Junior Smart Contract Security Researcher & Solidity Developer</strong></p>
-  <p>Dhaka, Bangladesh · Open to junior auditor / Solidity roles</p>
+  <p>
+    <strong>Blockchain Security &amp; Development Engineer · Full-Stack Developer · Researcher</strong>
+  </p>
+  <p>Dhaka, Bangladesh · Open to blockchain security, smart contract auditing, full-stack, and research roles</p>
 
   <p>
-    <a href="mailto:sharthak016@gmail.com">sharthak016@gmail.com</a> ·
-    <a href="https://linkedin.com/in/sharthak18">LinkedIn</a> ·
-    <a href="https://x.com/sharthak18">X</a> ·
+    <a href="mailto:sharthak016@gmail.com">📧 sharthak016@gmail.com</a> &bull;
+    <a href="https://www.linkedin.com/in/sharthak18/">LinkedIn</a> &bull;
+    <a href="https://x.com/sharthak18">X (Twitter)</a> &bull;
     <a href="https://sharthak18.github.io">Portfolio</a>
   </p>
 </div>
 
 ---
 
-### What I do
+### About Me
 
-Smart-contract security research and Solidity development. Focus areas:
-access control, oracle manipulation, accounting invariants, and hook-based
-AMM integration bugs. I write Foundry invariant suites, run Slither /
-Aderyn, and read every line of the protocol by hand.
+I'm a builder and researcher based in Dhaka, Bangladesh. I work at the intersection of **blockchain security and development**, **full-stack software engineering**, and **applied research**:
 
-### Proof of work
+- 🔐 **Blockchain Security & Development** — smart contract auditing, Solidity development, vulnerability research, and protocol security reviews.
+- 💻 **Full-Stack Development** — end-to-end web applications, APIs, databases, and deployment pipelines.
+- 🔬 **Research** — technical research on blockchain, Web3, software engineering, and general technology topics, distilled into write-ups and reports.
 
-- **Cantina — Revert Finance StableSwap Hooks:** ranked 40 / 773, 1 High + 2 Medium valid findings.
-- Active warden: **Code4rena**, **Sherlock**, **HackenProof**, **Immunefi**, **Cyfrin**.
+---
 
-### Stack
+### What I Do
 
-Solidity · Foundry · Slither · Aderyn · Echidna · Hardhat · OpenZeppelin ·
-Python · TypeScript · Docker · Linux
+**Blockchain Security & Development**
+- Smart contract security research and Solidity development
+- Access control, oracle manipulation, accounting invariants, and AMM hook-based bugs
+- Foundry invariant suites, Slither / Aderyn static analysis, and manual line-by-line protocol reviews
+- Active warden: **Code4rena**, **Sherlock**, **HackenProof**, **Immunefi**, **Cyfrin**
 
-### Pinned repos (rewrite descriptions to be specific)
+**Full-Stack Development**
+- Modern frontend and backend development with TypeScript / JavaScript
+- REST APIs, database design, authentication, and deployment pipelines
+- Building production-ready applications from scratch
 
-| Repo | What it actually is |
-|---|---|
-| `My-Audit-Portfolio-` | Write-ups on Damn Vulnerable DeFi, Ethernaut, and public C4 reports. Shows reasoning, not just answers. |
-| `SELF-Smart-Contract-Auditing-Tool` | Local CLI orchestrating Foundry tests + Slither + Aderyn with one config; emits a Markdown audit report. |
+**Research**
+- Research on blockchain/Web3, security, and general technology topics
+- Technical write-ups, audit reports, and educational content
+
+---
+
+### Tech Stack
+
+**Blockchain:** Solidity · Foundry · Hardhat · OpenZeppelin · Vyper · Echidna · Slither · Aderyn  
+**Web / Full-Stack:** TypeScript · JavaScript · React · Node.js · Next.js · Python · PostgreSQL · MongoDB · Docker · Linux · Git  
+**Research:** Technical writing · Literature review · Vulnerability analysis · Data analysis
+
+---
+
+### Proof of Work
+
+- **Cantina — Revert Finance StableSwap Hooks:** ranked 40 / 773, 1 High + 2 Medium valid findings
+- Active warden: **Code4rena**, **Sherlock**, **HackenProof**, **Immunefi**, **Cyfrin**
+- Full-stack projects and research write-ups available on [GitHub](https://github.com/sharthak18) and [Portfolio](https://sharthak18.github.io)
+
+### Pinned Repos
+
+| Repo | Description |
+|------|-------------|
+| `My-Audit-Portfolio-` | Write-ups on Damn Vulnerable DeFi, Ethernaut, and public C4 reports — reasoning, not just answers. |
+| `SELF-Smart-Contract-Auditing-Tool` | CLI orchestrating Foundry tests + Slither + Aderyn with one config; emits a Markdown audit report. |
 | `OMNITRIX_D-APP` | Solidity contracts + frontend with Foundry tests (incl. fuzz) — a working stack, not a tutorial clone. |
 
-### Currently learning
+---
 
-ZK circuits (Noir), invariant testing at scale (Echidna), assembly-level EVM.
+### Currently Learning
+
+ZK circuits (Noir), invariant testing at scale (Echidna), assembly-level EVM, and applied research methodology.
+
+---
+
+<div align="center">
+  <p>Thanks for visiting! Feel free to connect on <a href="https://www.linkedin.com/in/sharthak18/">LinkedIn</a> or check out my <a href="https://sharthak18.github.io">portfolio</a>.</p>
+</div>
