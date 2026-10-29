@@ -54,7 +54,7 @@ I'm a builder and researcher based in Dhaka, Bangladesh. I work at the intersect
 
 ### Proof of Work
 
-- **Cantina — Revert Finance StableSwap Hooks:**  1 High + 2 Medium valid findings
+- **Cantina — Revert Finance StableSwap Hooks:** 
 - Active warden: **Code4rena**, **Sherlock**, **HackenProof**, **Immunefi**, **Cyfrin**
 - Full-stack projects and research write-ups available on [GitHub](https://github.com/sharthak18) and [Portfolio](https://sharthak18.github.io)
 
